@@ -1,2 +1,2 @@
 # KnowledgeNetwork
-只是网络
+知识网络
